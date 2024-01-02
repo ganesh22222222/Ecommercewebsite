@@ -94,12 +94,11 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 ![15](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/31c72442-7bf8-4562-9ebe-2fe5f8b4ce15)
 
 
-## Discription
-Here I am attaching the final working website's screenshot for the reference
+Discription Here I am attaching the final working website's screenshot for the reference
 
 ## Resource Visualizer
 ![Screenshot 2024-01-02 202815](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/2248d86b-0202-46eb-96f0-7c40e0e1e815)
-7-4c14-bcd3-86193c5442b2)
+
 
 ## Final Project Statement
 The goal is to deliver a polished static website that not only serves as an online platform for the Ecommerce Website Online Shopping but also engages users with an aesthetically pleasing design and seamless navigation. The website should be informative, inspiring, and encourage users to explore various culinary skills through well-organized content.
